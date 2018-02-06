@@ -1,0 +1,6 @@
+#
+http://localhost:8080/jaxrsValidationExample/api/test?name=123
+http://localhost:8080/jaxrsValidationExample/api/test2?name=123
+
+#
+https://kinjouj.github.io/2014/07/jaxrs-14-bean-validation.html
